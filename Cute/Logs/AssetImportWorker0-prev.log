@@ -1,0 +1,1272 @@
+Using pre-set license
+Built from '2021.1/staging' branch; Version is '2021.1.5f1 (3737af19df53) revision 3618735'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10 Home; OS build 19042.1348; Version 2009; 64bit' Language: 'en' Physical Memory: 16233 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+ COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\2021.1.5f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+D:/Unity/Cute
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+59892
+Successfully changed project path to: D:/Unity/Cute
+D:/Unity/Cute
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 60.23 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2021.1.5f1 (3737af19df53)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/2021.1.5f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path D:/Unity/Cute/Assets
+GfxDevice: creating device client; threaded=0; jobified=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce GTX 1660 Ti (ID=0x2191)
+    Vendor:   NVIDIA
+    VRAM:     5991 MB
+    Driver:   30.0.14.7111
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/2021.1.5f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/2021.1.5f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'C:/Program Files/Unity/2021.1.5f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56192
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/2021.1.5f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Register platform support module: C:/Program Files/Unity/2021.1.5f1/Editor/Data/PlaybackEngines/LinuxStandaloneSupport/UnityEditor.LinuxStandalone.Extensions.dll
+Registered in 0.014957 seconds.
+Native extension for LinuxStandalone target not found
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 59.01 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  8.558 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.009411 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for LinuxStandalone target not found
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.81 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.292 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.11 seconds
+Refreshing native plugins compatible for Editor in 0.67 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1136 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 58.6 MB.
+System memory in use after: 58.7 MB.
+
+Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 1595.
+Total: 5.656700 ms (FindLiveObjects: 0.329600 ms CreateObjectMapping: 0.126100 ms MarkObjects: 5.081500 ms  DeleteObjects: 0.116900 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets/Audio/Music
+  artifactKey: Guid(d7d2b9bb21e303048982642d4fae6314) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Audio/Music using Guid(d7d2b9bb21e303048982642d4fae6314) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd2446ce10c9ed5105c217be8cfa60713') in 0.017225 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000354 seconds.
+  path: Assets/Audio/Music/Game Music Treasury - Vol. I
+  artifactKey: Guid(b9e9f9c78e81ad242b78b40a265d36d7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Audio/Music/Game Music Treasury - Vol. I using Guid(b9e9f9c78e81ad242b78b40a265d36d7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '03598dfef694fc2aad14ead78499158f') in 0.019620 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 14.471324 seconds.
+  path: Assets/Audio
+  artifactKey: Guid(50a399583d01d524586578301218fdce) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Audio using Guid(50a399583d01d524586578301218fdce) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b21c0cc1865451cd6465e3a6dfe27df5') in 0.016372 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 16.025340 seconds.
+  path: Assets/Audio/Music/Game Music Treasury - Vol. I/Adventure
+  artifactKey: Guid(31111627771c45b459840bd851b205a7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Audio/Music/Game Music Treasury - Vol. I/Adventure using Guid(31111627771c45b459840bd851b205a7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3942d86b42b3060d590749a43d48b52d') in 0.014699 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.053641 seconds.
+  path: Assets/Audio/Music/Game Music Treasury - Vol. I/Adventure/A Hero Emerges (live).wav
+  artifactKey: Guid(d5510b2c95757c74b99c93437f074d73) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Audio/Music/Game Music Treasury - Vol. I/Adventure/A Hero Emerges (live).wav using Guid(d5510b2c95757c74b99c93437f074d73) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b91965c641568732d0f6c812981d06bf') in 0.331982 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000356 seconds.
+  path: Assets/Audio/Music/Game Music Treasury - Vol. I/Adventure/Land of War.wav
+  artifactKey: Guid(cf018b466ed69114693300f657061fd4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Audio/Music/Game Music Treasury - Vol. I/Adventure/Land of War.wav using Guid(cf018b466ed69114693300f657061fd4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '14ddb2b1915c86e3b825d4c7e4f0f3a0') in 0.024642 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000357 seconds.
+  path: Assets/Audio/Music/Game Music Treasury - Vol. I/Adventure/LOOP_A Tale Retold (live).wav
+  artifactKey: Guid(2a6acdd32fbac0e498e94171a9deb6ad) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Audio/Music/Game Music Treasury - Vol. I/Adventure/LOOP_A Tale Retold (live).wav using Guid(2a6acdd32fbac0e498e94171a9deb6ad) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4d164a7dd68bfc35d27376fc8739e982') in 0.030441 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000339 seconds.
+  path: Assets/Audio/Music/Game Music Treasury - Vol. I/Adventure/LOOP_Kick Into Warpdrive!.wav
+  artifactKey: Guid(90ad7699fb4f2354c836f29478ac40bf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Audio/Music/Game Music Treasury - Vol. I/Adventure/LOOP_Kick Into Warpdrive!.wav using Guid(90ad7699fb4f2354c836f29478ac40bf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c206ec02eb182c73a6ac72c8120614ce') in 0.024833 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000482 seconds.
+  path: Assets/Audio/Music/Game Music Treasury - Vol. I/Adventure/Into the Galaxy.wav
+  artifactKey: Guid(ee52b6506f8c2204999edf9956f5ca62) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Audio/Music/Game Music Treasury - Vol. I/Adventure/Into the Galaxy.wav using Guid(ee52b6506f8c2204999edf9956f5ca62) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9eafbbe871d1e83fe933d6e249504f8a') in 0.028611 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000358 seconds.
+  path: Assets/Audio/Music/Game Music Treasury - Vol. I/Adventure/LOOP_New Destinations.wav
+  artifactKey: Guid(00c1e729a0b53dc4c80444c95a6066a6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Audio/Music/Game Music Treasury - Vol. I/Adventure/LOOP_New Destinations.wav using Guid(00c1e729a0b53dc4c80444c95a6066a6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6403bf7bf399a45b1b0d4bce5a032dd4') in 0.037205 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000375 seconds.
+  path: Assets/Audio/Music/Game Music Treasury - Vol. I/Adventure/Adventure Together (live).wav
+  artifactKey: Guid(61643e93f51dc3e4189fbcefeafa4fe0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Audio/Music/Game Music Treasury - Vol. I/Adventure/Adventure Together (live).wav using Guid(61643e93f51dc3e4189fbcefeafa4fe0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '84fdb6c7c7983dba3bdf000085aca65e') in 0.040327 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000317 seconds.
+  path: Assets/Audio/Music/Game Music Treasury - Vol. I/Adventure/Peaceful Days No More.wav
+  artifactKey: Guid(98f2baf85b710b04987da294c09b840c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Audio/Music/Game Music Treasury - Vol. I/Adventure/Peaceful Days No More.wav using Guid(98f2baf85b710b04987da294c09b840c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6d1e3c4d9fad50e946334bb082adb390') in 0.029123 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000432 seconds.
+  path: Assets/Audio/Music/Game Music Treasury - Vol. I/Adventure/LOOP_Frozen Adventure.wav
+  artifactKey: Guid(1e591c168fdd1b14db25c1290c711e9a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Audio/Music/Game Music Treasury - Vol. I/Adventure/LOOP_Frozen Adventure.wav using Guid(1e591c168fdd1b14db25c1290c711e9a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '487b0ecb9b859bdb291ed6534dd3be24') in 0.030390 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000375 seconds.
+  path: Assets/Audio/Music/Game Music Treasury - Vol. I/Adventure/Age-Old Tale.wav
+  artifactKey: Guid(ad0e0510070c7ec4f88c87770203193f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Audio/Music/Game Music Treasury - Vol. I/Adventure/Age-Old Tale.wav using Guid(ad0e0510070c7ec4f88c87770203193f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5a7e8bd75c99a10792fdbbb76613cb75') in 0.022663 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000479 seconds.
+  path: Assets/Audio/Music/Game Music Treasury - Vol. I/Adventure/Rise (live vocals).wav
+  artifactKey: Guid(a9a793f8b34d21f468adb93f3403f4f2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Audio/Music/Game Music Treasury - Vol. I/Adventure/Rise (live vocals).wav using Guid(a9a793f8b34d21f468adb93f3403f4f2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1f1dfb33843a231715df519e71803a51') in 0.029321 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000392 seconds.
+  path: Assets/Audio/Music/Game Music Treasury - Vol. I/Adventure/LOOP_Happy Sailing.wav
+  artifactKey: Guid(1759bc46d42d5fc4086ed5809f42d21b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Audio/Music/Game Music Treasury - Vol. I/Adventure/LOOP_Happy Sailing.wav using Guid(1759bc46d42d5fc4086ed5809f42d21b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '712c9148eb7c5c58417e022c7d416571') in 0.029733 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000320 seconds.
+  path: Assets/Audio/Music/Game Music Treasury - Vol. I/Adventure/LOOP_Adventure Awaits (live).wav
+  artifactKey: Guid(c5d7712c70a2a5b4284c9b82f54cc7fd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Audio/Music/Game Music Treasury - Vol. I/Adventure/LOOP_Adventure Awaits (live).wav using Guid(c5d7712c70a2a5b4284c9b82f54cc7fd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '894edcdac541f58443bf1094324ba07d') in 0.027666 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000360 seconds.
+  path: Assets/Audio/Music/Game Music Treasury - Vol. I/Adventure/Preparing for Adventure.wav
+  artifactKey: Guid(d64c0e07c474ebc4abe3b52ec4c5bd71) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Audio/Music/Game Music Treasury - Vol. I/Adventure/Preparing for Adventure.wav using Guid(d64c0e07c474ebc4abe3b52ec4c5bd71) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f43ae13976626fe9f4dc4ecb81c0ec05') in 0.026434 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000379 seconds.
+  path: Assets/Audio/Music/Game Music Treasury - Vol. I/Adventure/Rise (live instrumental).wav
+  artifactKey: Guid(7c22a003765acf84e8ea747a170c2d08) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Audio/Music/Game Music Treasury - Vol. I/Adventure/Rise (live instrumental).wav using Guid(7c22a003765acf84e8ea747a170c2d08) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f2c7d9d4d86b8718b09693ee205c85d8') in 0.023874 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000423 seconds.
+  path: Assets/Audio/Music/Game Music Treasury - Vol. I/Adventure/LOOP_An Unlikely Hero.wav
+  artifactKey: Guid(4a6caa58ff22d7a4a9545aabee47dd24) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Audio/Music/Game Music Treasury - Vol. I/Adventure/LOOP_An Unlikely Hero.wav using Guid(4a6caa58ff22d7a4a9545aabee47dd24) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ad3219391f7c1ff47d459df2b5b61bd0') in 0.023539 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000333 seconds.
+  path: Assets/Audio/Music/Game Music Treasury - Vol. I/Adventure/LOOP_Hero of Legend (live).wav
+  artifactKey: Guid(126d762a9ef56c54a9085b4990f5bfe0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Audio/Music/Game Music Treasury - Vol. I/Adventure/LOOP_Hero of Legend (live).wav using Guid(126d762a9ef56c54a9085b4990f5bfe0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8601f1d840a9d212ac25de107180ff4f') in 0.023098 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000468 seconds.
+  path: Assets/Audio/Music/Game Music Treasury - Vol. I/Adventure/LOOP_Space Critters.wav
+  artifactKey: Guid(ad333877cbf0e6043a381dcd30e5f72d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Audio/Music/Game Music Treasury - Vol. I/Adventure/LOOP_Space Critters.wav using Guid(ad333877cbf0e6043a381dcd30e5f72d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '77f3ae8ab87310e353809054c1af54cc') in 0.031047 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000360 seconds.
+  path: Assets/Audio/Music/Game Music Treasury - Vol. I/Adventure/LOOP_Galactic Pulse.wav
+  artifactKey: Guid(e7583342bb355434d9fe34c30fb3bc1a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Audio/Music/Game Music Treasury - Vol. I/Adventure/LOOP_Galactic Pulse.wav using Guid(e7583342bb355434d9fe34c30fb3bc1a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7a9c3abb01934b3797a9e53d7f2d6b59') in 0.030032 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000379 seconds.
+  path: Assets/Audio/Music/Game Music Treasury - Vol. I/Adventure/LOOP_Happy Quest.wav
+  artifactKey: Guid(1b16919bd591b9b4dbd84b545c2e7b28) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Audio/Music/Game Music Treasury - Vol. I/Adventure/LOOP_Happy Quest.wav using Guid(1b16919bd591b9b4dbd84b545c2e7b28) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3d2f4fa207f01daed2d696f217afe680') in 0.030509 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000590 seconds.
+  path: Assets/Audio/Music/Game Music Treasury - Vol. I/Adventure/LOOP_Phantom Pirate Ship.wav
+  artifactKey: Guid(e8f430bbc3a97c54baa808aa13ea5bec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Audio/Music/Game Music Treasury - Vol. I/Adventure/LOOP_Phantom Pirate Ship.wav using Guid(e8f430bbc3a97c54baa808aa13ea5bec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a855d989c112964dd2e981968f6c3ab9') in 0.022291 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000366 seconds.
+  path: Assets/Audio/Music/Game Music Treasury - Vol. I/Adventure/Grand Space Adventure.wav
+  artifactKey: Guid(7c12904615c3ed246a8b157607dbe829) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Audio/Music/Game Music Treasury - Vol. I/Adventure/Grand Space Adventure.wav using Guid(7c12904615c3ed246a8b157607dbe829) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '77a4b807331d6ddfb67446ff5ae72aeb') in 0.023794 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000397 seconds.
+  path: Assets/Audio/Music/Game Music Treasury - Vol. I/Adventure/LOOP_Breaking Dawn.wav
+  artifactKey: Guid(3d4bfc0ed2d5d27498b825cde83057b1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Audio/Music/Game Music Treasury - Vol. I/Adventure/LOOP_Breaking Dawn.wav using Guid(3d4bfc0ed2d5d27498b825cde83057b1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '87e0bf89012a2919499ff60a394c7f2b') in 0.024054 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000580 seconds.
+  path: Assets/Audio/Music/Game Music Treasury - Vol. I/Adventure/LOOP_Dashing Through New Lands (live).wav
+  artifactKey: Guid(01f12b45a418ddf46b3f3d1c3474864e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Audio/Music/Game Music Treasury - Vol. I/Adventure/LOOP_Dashing Through New Lands (live).wav using Guid(01f12b45a418ddf46b3f3d1c3474864e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '368f78a754a51d2984cc43d36509b4f9') in 0.031546 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000351 seconds.
+  path: Assets/Audio/Music/Game Music Treasury - Vol. I/Adventure/Dare to Challenge.wav
+  artifactKey: Guid(9b183ad5a5abd484d8c44039600e9f76) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Audio/Music/Game Music Treasury - Vol. I/Adventure/Dare to Challenge.wav using Guid(9b183ad5a5abd484d8c44039600e9f76) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2e956f00f0d20945ae1a9e1333e81535') in 0.020711 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000356 seconds.
+  path: Assets/Audio/Music/Game Music Treasury - Vol. I/Adventure/LOOP_Warrior's Pride.wav
+  artifactKey: Guid(b60dc9498b895fb41ae18e2440aff177) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Audio/Music/Game Music Treasury - Vol. I/Adventure/LOOP_Warrior's Pride.wav using Guid(b60dc9498b895fb41ae18e2440aff177) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3a7693a27d613d6cf1fe77b904cacd91') in 0.031421 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000452 seconds.
+  path: Assets/Audio/Music/Game Music Treasury - Vol. I/Adventure/LOOP_Banished Warriors.wav
+  artifactKey: Guid(e89a80a692eedc04a995d26e1099a746) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Audio/Music/Game Music Treasury - Vol. I/Adventure/LOOP_Banished Warriors.wav using Guid(e89a80a692eedc04a995d26e1099a746) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a128f670f61328ba445fc9de40f9e4cf') in 0.022037 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000341 seconds.
+  path: Assets/Audio/Music/Game Music Treasury - Vol. I/Adventure/Across the Mountainside (live).wav
+  artifactKey: Guid(8e48dd258323a4c489f97c750ea21b65) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Audio/Music/Game Music Treasury - Vol. I/Adventure/Across the Mountainside (live).wav using Guid(8e48dd258323a4c489f97c750ea21b65) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e230d6e627db1b29c031056eae0e6c2a') in 0.026112 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000375 seconds.
+  path: Assets/Audio/Music/Game Music Treasury - Vol. I/Adventure/LOOP_Savage One.wav
+  artifactKey: Guid(9ea7afa3320a74041acdad8844db8e5d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Audio/Music/Game Music Treasury - Vol. I/Adventure/LOOP_Savage One.wav using Guid(9ea7afa3320a74041acdad8844db8e5d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6b7a05c138cff27b007732c7d39c12c4') in 0.033251 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000459 seconds.
+  path: Assets/Audio/Music/Game Music Treasury - Vol. I/Adventure/LOOP_Cosmic Reflection.wav
+  artifactKey: Guid(50b42b1140811ad4ba55f102480dc170) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Audio/Music/Game Music Treasury - Vol. I/Adventure/LOOP_Cosmic Reflection.wav using Guid(50b42b1140811ad4ba55f102480dc170) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1e593f17b84c3ef505c9073052619fa6') in 0.029078 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000615 seconds.
+  path: Assets/Audio/Music/Game Music Treasury - Vol. I/Adventure/LOOP_Sands of Delusion (live).wav
+  artifactKey: Guid(13320410ee1987640a4688fc8c38d5dc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Audio/Music/Game Music Treasury - Vol. I/Adventure/LOOP_Sands of Delusion (live).wav using Guid(13320410ee1987640a4688fc8c38d5dc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0a341988947fb4e6f9c3f593e0261e0f') in 0.034733 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000551 seconds.
+  path: Assets/Audio/Music/Game Music Treasury - Vol. I/Adventure/LOOP_Mission Accomplished.wav
+  artifactKey: Guid(5c18ecf2a7064be4295b4e48504c6fca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Audio/Music/Game Music Treasury - Vol. I/Adventure/LOOP_Mission Accomplished.wav using Guid(5c18ecf2a7064be4295b4e48504c6fca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '19ae443369cdad113250d76c7b4b115d') in 0.036383 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000496 seconds.
+  path: Assets/Audio/Music/Game Music Treasury - Vol. I/Adventure/Quest Preparations (live).wav
+  artifactKey: Guid(1f4e612230f61654a9ebab76a1454dbe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Audio/Music/Game Music Treasury - Vol. I/Adventure/Quest Preparations (live).wav using Guid(1f4e612230f61654a9ebab76a1454dbe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8d1e117951f20bb316603eaab63221e3') in 0.033517 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000478 seconds.
+  path: Assets/Audio/Music/Game Music Treasury - Vol. I/Adventure/Remembering A Better Time (live).wav
+  artifactKey: Guid(5691f0b779fe03641b02c379283ee033) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Audio/Music/Game Music Treasury - Vol. I/Adventure/Remembering A Better Time (live).wav using Guid(5691f0b779fe03641b02c379283ee033) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c6146b75da5bcc7c88d2d3dad27ca3d6') in 0.025101 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001298 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for LinuxStandalone target not found
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.67 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.034 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.62 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1131 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 62.4 MB.
+System memory in use after: 62.5 MB.
+
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 1607.
+Total: 4.111600 ms (FindLiveObjects: 0.282700 ms CreateObjectMapping: 0.108700 ms MarkObjects: 3.692600 ms  DeleteObjects: 0.025600 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001387 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for LinuxStandalone target not found
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.70 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.202 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.63 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1131 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 62.4 MB.
+System memory in use after: 62.5 MB.
+
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 1610.
+Total: 4.851700 ms (FindLiveObjects: 0.291600 ms CreateObjectMapping: 0.131400 ms MarkObjects: 4.400700 ms  DeleteObjects: 0.025300 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 113.744210 seconds.
+  path: Assets/Audio/Music/Game Music Treasury - Vol. I/Suspense
+  artifactKey: Guid(0b35a8c16c40f5142bd14916c51105f7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Audio/Music/Game Music Treasury - Vol. I/Suspense using Guid(0b35a8c16c40f5142bd14916c51105f7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7760f5eb6ef36825e98d4de888675a9b') in 0.018869 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.045473 seconds.
+  path: Assets/Audio/Music/Game Music Treasury - Vol. I/Suspense/A Tense Decision.wav
+  artifactKey: Guid(8892aef9931b8bc4390e70e4ab410535) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Audio/Music/Game Music Treasury - Vol. I/Suspense/A Tense Decision.wav using Guid(8892aef9931b8bc4390e70e4ab410535) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd7507f5791bb17240b093a6e3a4922dc') in 0.111273 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000414 seconds.
+  path: Assets/Audio/Music/Game Music Treasury - Vol. I/Suspense/In Dark Pursuit (live).wav
+  artifactKey: Guid(1ac6ff0aca3cd3b4c8af28c47cdc3136) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Audio/Music/Game Music Treasury - Vol. I/Suspense/In Dark Pursuit (live).wav using Guid(1ac6ff0aca3cd3b4c8af28c47cdc3136) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2671faff835441d2d754514ada72bac4') in 0.024170 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000349 seconds.
+  path: Assets/Audio/Music/Game Music Treasury - Vol. I/Suspense/Battle Cry.wav
+  artifactKey: Guid(5d99f9f5981129741adf256ca7f2a845) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Audio/Music/Game Music Treasury - Vol. I/Suspense/Battle Cry.wav using Guid(5d99f9f5981129741adf256ca7f2a845) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b563e2c474c92b77ccf16801fe721b19') in 0.026867 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000335 seconds.
+  path: Assets/Audio/Music/Game Music Treasury - Vol. I/Suspense/Beneath the Surface.wav
+  artifactKey: Guid(ad30ed718dbac1e44aad063b5cfa73bc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Audio/Music/Game Music Treasury - Vol. I/Suspense/Beneath the Surface.wav using Guid(ad30ed718dbac1e44aad063b5cfa73bc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fc7c76cb378239a5da296dc133f492aa') in 0.032178 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000400 seconds.
+  path: Assets/Audio/Music/Game Music Treasury - Vol. I/Suspense/LOOP_Heartless (live).wav
+  artifactKey: Guid(3acb13c6326646243a04e77edfc9fad2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Audio/Music/Game Music Treasury - Vol. I/Suspense/LOOP_Heartless (live).wav using Guid(3acb13c6326646243a04e77edfc9fad2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9339cd99b6d946efbcbf46b209a1d01c') in 0.024032 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000326 seconds.
+  path: Assets/Audio/Music/Game Music Treasury - Vol. I/Suspense/Demon of Earth (live).wav
+  artifactKey: Guid(a49753fb0403245448cb0220ebeebce4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Audio/Music/Game Music Treasury - Vol. I/Suspense/Demon of Earth (live).wav using Guid(a49753fb0403245448cb0220ebeebce4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b9b3488df1134f6f2b90da6f70087f6f') in 0.035772 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000350 seconds.
+  path: Assets/Audio/Music/Game Music Treasury - Vol. I/Suspense/LOOP_Dark Intentions.wav
+  artifactKey: Guid(bcbdc0b832bcf1d478dae669e573307b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Audio/Music/Game Music Treasury - Vol. I/Suspense/LOOP_Dark Intentions.wav using Guid(bcbdc0b832bcf1d478dae669e573307b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd92a927960f9e615bc669f631e220f97') in 0.034610 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000407 seconds.
+  path: Assets/Audio/Music/Game Music Treasury - Vol. I/Suspense/LOOP_Illumination.wav
+  artifactKey: Guid(66b659494c0131d478853d1df6cd32db) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Audio/Music/Game Music Treasury - Vol. I/Suspense/LOOP_Illumination.wav using Guid(66b659494c0131d478853d1df6cd32db) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9f6bc1b6bd1cd0010875c6f293193408') in 0.031113 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000334 seconds.
+  path: Assets/Audio/Music/Game Music Treasury - Vol. I/Suspense/LOOP_Trouble Afoot.wav
+  artifactKey: Guid(abac0bef12b546849964b81d7573d961) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Audio/Music/Game Music Treasury - Vol. I/Suspense/LOOP_Trouble Afoot.wav using Guid(abac0bef12b546849964b81d7573d961) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd9d0a64f0c9c638712acaf2cc6dd63a3') in 0.024904 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000508 seconds.
+  path: Assets/Audio/Music/Game Music Treasury - Vol. I/Suspense/Demon of Forest.wav
+  artifactKey: Guid(70fd86508c108ca41ad7c2eacf8f7ebd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Audio/Music/Game Music Treasury - Vol. I/Suspense/Demon of Forest.wav using Guid(70fd86508c108ca41ad7c2eacf8f7ebd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '525e737e298e8e86e38aa4379646b9e8') in 0.026493 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000358 seconds.
+  path: Assets/Audio/Music/Game Music Treasury - Vol. I/Suspense/LOOP_Nailbiting Suspense.wav
+  artifactKey: Guid(c48aaee4f56034b4d9c4fb7c29c14f4d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Audio/Music/Game Music Treasury - Vol. I/Suspense/LOOP_Nailbiting Suspense.wav using Guid(c48aaee4f56034b4d9c4fb7c29c14f4d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0dff0c1470ff6f7ffd8bd256dbd0fe64') in 0.021593 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000404 seconds.
+  path: Assets/Audio/Music/Game Music Treasury - Vol. I/Suspense/LOOP_Spooky Town.wav
+  artifactKey: Guid(b1653f23ce63a3e4b8cbaab3cf9fe07e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Audio/Music/Game Music Treasury - Vol. I/Suspense/LOOP_Spooky Town.wav using Guid(b1653f23ce63a3e4b8cbaab3cf9fe07e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f52d45e1ec8fe60fecd0ae6830457816') in 0.029601 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000371 seconds.
+  path: Assets/Audio/Music/Game Music Treasury - Vol. I/Suspense/LOOP_Suspenseful Waiting.wav
+  artifactKey: Guid(83ffd63ea04528b4a90593fc943e2e7b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Audio/Music/Game Music Treasury - Vol. I/Suspense/LOOP_Suspenseful Waiting.wav using Guid(83ffd63ea04528b4a90593fc943e2e7b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5d150fc135c2f92da2e3fa281a6d59c5') in 0.026019 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000503 seconds.
+  path: Assets/Audio/Music/Game Music Treasury - Vol. I/Suspense/Demon of Fire (live).wav
+  artifactKey: Guid(365c381f4a222a74a979666dfd7f920b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Audio/Music/Game Music Treasury - Vol. I/Suspense/Demon of Fire (live).wav using Guid(365c381f4a222a74a979666dfd7f920b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e5f032ea5993a9ae8584a2c6d44d9833') in 0.035338 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000366 seconds.
+  path: Assets/Audio/Music/Game Music Treasury - Vol. I/Suspense/LOOP_Watch Your Step.wav
+  artifactKey: Guid(7a3a78e6e211c224a84a930345facd34) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Audio/Music/Game Music Treasury - Vol. I/Suspense/LOOP_Watch Your Step.wav using Guid(7a3a78e6e211c224a84a930345facd34) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'df560b110252685a88a1c89eb836b3fb') in 0.025582 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000426 seconds.
+  path: Assets/Audio/Music/Game Music Treasury - Vol. I/Suspense/LOOP_Roaming the Dark Forest.wav
+  artifactKey: Guid(5fa0c29b44d7fed4db662764778956c2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Audio/Music/Game Music Treasury - Vol. I/Suspense/LOOP_Roaming the Dark Forest.wav using Guid(5fa0c29b44d7fed4db662764778956c2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '028ccfb49e1e491a3184e5cf3a7699a2') in 0.027788 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000401 seconds.
+  path: Assets/Audio/Music/Game Music Treasury - Vol. I/Suspense/LOOP_Danger, Danger!.wav
+  artifactKey: Guid(c98b627f234347c44bb56e5b18de4e6a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Audio/Music/Game Music Treasury - Vol. I/Suspense/LOOP_Danger, Danger!.wav using Guid(c98b627f234347c44bb56e5b18de4e6a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b4a8744917323e1ba41ec52af854796d') in 0.035200 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000371 seconds.
+  path: Assets/Audio/Music/Game Music Treasury - Vol. I/Suspense/Shadow Runner.wav
+  artifactKey: Guid(a3727eb81b5f2b140a038d21569b55a2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Audio/Music/Game Music Treasury - Vol. I/Suspense/Shadow Runner.wav using Guid(a3727eb81b5f2b140a038d21569b55a2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4d91307e62482979dca8d509e6db32b6') in 0.031096 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000562 seconds.
+  path: Assets/Audio/Music/Game Music Treasury - Vol. I/Suspense/LOOP_Danger Approaching.wav
+  artifactKey: Guid(057b2dfcbf6ec324e97ec97e26abc6cc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Audio/Music/Game Music Treasury - Vol. I/Suspense/LOOP_Danger Approaching.wav using Guid(057b2dfcbf6ec324e97ec97e26abc6cc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ce848b80c43184af5e151dbb41e75b24') in 0.033395 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000329 seconds.
+  path: Assets/Audio/Music/Game Music Treasury - Vol. I/Suspense/Lurking in the Shadows.wav
+  artifactKey: Guid(136433ed352979f4b8cc905ad7de392a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Audio/Music/Game Music Treasury - Vol. I/Suspense/Lurking in the Shadows.wav using Guid(136433ed352979f4b8cc905ad7de392a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '81df9fa1530d8f2416ace23472335096') in 0.026003 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000330 seconds.
+  path: Assets/Audio/Music/Game Music Treasury - Vol. I/Suspense/LOOP_Fearless.wav
+  artifactKey: Guid(2744ddd4749996a40bac5e4ba10bf1cf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Audio/Music/Game Music Treasury - Vol. I/Suspense/LOOP_Fearless.wav using Guid(2744ddd4749996a40bac5e4ba10bf1cf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '74c7b9f7fc558b7e486d0bb212a3ec23') in 0.024635 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000396 seconds.
+  path: Assets/Audio/Music/Game Music Treasury - Vol. I/Suspense/LOOP_Traveling Blind.wav
+  artifactKey: Guid(b086997210bb2e14788f3b482680535e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Audio/Music/Game Music Treasury - Vol. I/Suspense/LOOP_Traveling Blind.wav using Guid(b086997210bb2e14788f3b482680535e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cb4f4ea1d88280c22aca6625eb10cfec') in 0.025663 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000591 seconds.
+  path: Assets/Audio/Music/Game Music Treasury - Vol. I/Suspense/LOOP_Unclear Path.wav
+  artifactKey: Guid(13742dea89bf50541b3ab6b2745af828) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Audio/Music/Game Music Treasury - Vol. I/Suspense/LOOP_Unclear Path.wav using Guid(13742dea89bf50541b3ab6b2745af828) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '67f38e1848a3800f2718575797dea97b') in 0.025795 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000380 seconds.
+  path: Assets/Audio/Music/Game Music Treasury - Vol. I/Suspense/Valley of Shadows (live).wav
+  artifactKey: Guid(90bcbee1906fd9548848aa645d485ba6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Audio/Music/Game Music Treasury - Vol. I/Suspense/Valley of Shadows (live).wav using Guid(90bcbee1906fd9548848aa645d485ba6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0c3fc1d840eb3d96af1514b37ea744ba') in 0.029787 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000393 seconds.
+  path: Assets/Audio/Music/Game Music Treasury - Vol. I/Suspense/LOOP_Stillness of Night.wav
+  artifactKey: Guid(63382783a9443d24780374b19c8849b1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Audio/Music/Game Music Treasury - Vol. I/Suspense/LOOP_Stillness of Night.wav using Guid(63382783a9443d24780374b19c8849b1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '53149832beca012bfa335bb78d16c772') in 0.029764 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000444 seconds.
+  path: Assets/Audio/Music/Game Music Treasury - Vol. I/Suspense/Emerging from the Shadows (live).wav
+  artifactKey: Guid(def950192e2578e44b317d4d5ec32dba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Audio/Music/Game Music Treasury - Vol. I/Suspense/Emerging from the Shadows (live).wav using Guid(def950192e2578e44b317d4d5ec32dba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dec94db456ea42f5a0f98682498f83b2') in 0.036371 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000438 seconds.
+  path: Assets/Audio/Music/Game Music Treasury - Vol. I/Suspense/LOOP_Vicious Vortex.wav
+  artifactKey: Guid(f53ae18b8a9e58c4a89430a049efb5dc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Audio/Music/Game Music Treasury - Vol. I/Suspense/LOOP_Vicious Vortex.wav using Guid(f53ae18b8a9e58c4a89430a049efb5dc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '35ab1d6ad12caa8bebd230dfaf8fd5ec') in 0.034282 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000533 seconds.
+  path: Assets/Audio/Music/Game Music Treasury - Vol. I/Suspense/LOOP_Cathedral of Demons.wav
+  artifactKey: Guid(b3ad12ea4e8b25f48afe9a380f40a470) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Audio/Music/Game Music Treasury - Vol. I/Suspense/LOOP_Cathedral of Demons.wav using Guid(b3ad12ea4e8b25f48afe9a380f40a470) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f26f2332bf780c66844c986d17635b48') in 0.028952 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000483 seconds.
+  path: Assets/Audio/Music/Game Music Treasury - Vol. I/Suspense/Circle of Omega.wav
+  artifactKey: Guid(90b6b063e5eba7e49b4569cd92666523) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Audio/Music/Game Music Treasury - Vol. I/Suspense/Circle of Omega.wav using Guid(90b6b063e5eba7e49b4569cd92666523) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '98f933d13e8890357ca7372efffc000b') in 0.042510 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000306 seconds.
+  path: Assets/Audio/Music/Game Music Treasury - Vol. I/Suspense/LOOP_Tension in Space.wav
+  artifactKey: Guid(f7cd66b0b74e7c14cadc1aaef37b9ad6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Audio/Music/Game Music Treasury - Vol. I/Suspense/LOOP_Tension in Space.wav using Guid(f7cd66b0b74e7c14cadc1aaef37b9ad6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '33e575dd84964e9ec0bca85c87dd910f') in 0.025355 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000346 seconds.
+  path: Assets/Audio/Music/Game Music Treasury - Vol. I/Suspense/Get Away!.wav
+  artifactKey: Guid(9dba498d15a3d2340bfc1a31c5ac7909) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Audio/Music/Game Music Treasury - Vol. I/Suspense/Get Away!.wav using Guid(9dba498d15a3d2340bfc1a31c5ac7909) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '10f50b80d0e03eb1e5d7cfab2e0be563') in 0.032064 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000423 seconds.
+  path: Assets/Audio/Music/Game Music Treasury - Vol. I/Suspense/LOOP_Invasion.wav
+  artifactKey: Guid(b78f9f180c586d4458813d18ab5bf6eb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Audio/Music/Game Music Treasury - Vol. I/Suspense/LOOP_Invasion.wav using Guid(b78f9f180c586d4458813d18ab5bf6eb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b2605efbe5ae1ba95dc02646272b31ed') in 0.031420 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000570 seconds.
+  path: Assets/Audio/Music/Game Music Treasury - Vol. I/Suspense/Suspenseful Escape.wav
+  artifactKey: Guid(f76104bce15012649baec4d2ff68157a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Audio/Music/Game Music Treasury - Vol. I/Suspense/Suspenseful Escape.wav using Guid(f76104bce15012649baec4d2ff68157a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b7e7bdae33b952ef0949886a11833505') in 0.034770 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000795 seconds.
+  path: Assets/Audio/Music/Game Music Treasury - Vol. I/Suspense/LOOP_Villainous Intentions.wav
+  artifactKey: Guid(b4aa0ef4c51d4ae45b7185b50e64842b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Audio/Music/Game Music Treasury - Vol. I/Suspense/LOOP_Villainous Intentions.wav using Guid(b4aa0ef4c51d4ae45b7185b50e64842b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ff549795761c8e52dde60d83e60d742a') in 0.034871 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000321 seconds.
+  path: Assets/Audio/Music/Game Music Treasury - Vol. I/Suspense/Defending Against Devastation (live).wav
+  artifactKey: Guid(aabb813803ec83f48bd4d87bda9ba45e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Audio/Music/Game Music Treasury - Vol. I/Suspense/Defending Against Devastation (live).wav using Guid(aabb813803ec83f48bd4d87bda9ba45e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '35f2987080bb20cf64b37227a2621e21') in 0.025715 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000442 seconds.
+  path: Assets/Audio/Music/Game Music Treasury - Vol. I/Suspense/LOOP_Run For Your Life!.wav
+  artifactKey: Guid(feb0e2a03cddc1c4eb55e8dbf54cf868) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Audio/Music/Game Music Treasury - Vol. I/Suspense/LOOP_Run For Your Life!.wav using Guid(feb0e2a03cddc1c4eb55e8dbf54cf868) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9fa5d19dff3873388a6c22b6ea961f54') in 0.030718 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000374 seconds.
+  path: Assets/Audio/Music/Game Music Treasury - Vol. I/Suspense/LOOP_Make A Choice.wav
+  artifactKey: Guid(c54f8a26761e6ba4b87a229416bc221d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Audio/Music/Game Music Treasury - Vol. I/Suspense/LOOP_Make A Choice.wav using Guid(c54f8a26761e6ba4b87a229416bc221d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '412565f48e51bd5d9d78a6d181b652c3') in 0.030013 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000375 seconds.
+  path: Assets/Audio/Music/Game Music Treasury - Vol. I/Suspense/Demon of Water (live).wav
+  artifactKey: Guid(ca1f0dc813f6ecf48907223a91aac120) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Audio/Music/Game Music Treasury - Vol. I/Suspense/Demon of Water (live).wav using Guid(ca1f0dc813f6ecf48907223a91aac120) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'efcd03b5fe15411c621900c3714a8b7e') in 0.025051 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 1.592668 seconds.
+  path: Assets/Audio/Music/Game Music Treasury - Vol. I/Fantasy Orchestral/Bicycle Tale.wav
+  artifactKey: Guid(70e584e12bde6dc4ab9e504052036e81) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Audio/Music/Game Music Treasury - Vol. I/Fantasy Orchestral/Bicycle Tale.wav using Guid(70e584e12bde6dc4ab9e504052036e81) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7114bcdc7195b754337a084ad3d346c7') in 0.024601 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000387 seconds.
+  path: Assets/Audio/Music/Game Music Treasury - Vol. I/Fantasy Orchestral/True Love.wav
+  artifactKey: Guid(74e0d6c3e6b6ced4b9eaba2b346f5f6c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Audio/Music/Game Music Treasury - Vol. I/Fantasy Orchestral/True Love.wav using Guid(74e0d6c3e6b6ced4b9eaba2b346f5f6c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f2da7215ef0b533954d62b3dedd7be45') in 0.026231 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000344 seconds.
+  path: Assets/Audio/Music/Game Music Treasury - Vol. I/Fantasy Orchestral/Preparing for the Final Encounter (live).wav
+  artifactKey: Guid(6ebb7c260def4f94b84110ded1b9a296) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Audio/Music/Game Music Treasury - Vol. I/Fantasy Orchestral/Preparing for the Final Encounter (live).wav using Guid(6ebb7c260def4f94b84110ded1b9a296) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0d1a8c7a3cc8b3cd0c52e7eedfd9e87e') in 0.027056 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000315 seconds.
+  path: Assets/Audio/Music/Game Music Treasury - Vol. I/Fantasy Orchestral/Gravedigger.wav
+  artifactKey: Guid(7758209067b8efb41912963622cf0393) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Audio/Music/Game Music Treasury - Vol. I/Fantasy Orchestral/Gravedigger.wav using Guid(7758209067b8efb41912963622cf0393) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c68c5d60f2fc0afc46ad55e84e07f2fa') in 0.024305 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000330 seconds.
+  path: Assets/Audio/Music/Game Music Treasury - Vol. I/Fantasy Orchestral/LOOP_Storming the Castle Gates.wav
+  artifactKey: Guid(cfccd9149f7290d4da78f28bad036a9e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Audio/Music/Game Music Treasury - Vol. I/Fantasy Orchestral/LOOP_Storming the Castle Gates.wav using Guid(cfccd9149f7290d4da78f28bad036a9e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bd4410e1277e054564affe14d4d2f77a') in 0.026635 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000474 seconds.
+  path: Assets/Audio/Music/Game Music Treasury - Vol. I/Fantasy Orchestral/LOOP_Regal Affairs.wav
+  artifactKey: Guid(c7ba555b6c82a394b9ce7af8d86c7098) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Audio/Music/Game Music Treasury - Vol. I/Fantasy Orchestral/LOOP_Regal Affairs.wav using Guid(c7ba555b6c82a394b9ce7af8d86c7098) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c20dab5cd94fcf3c485413aeaf898ceb') in 0.031074 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000838 seconds.
+  path: Assets/Audio/Music/Game Music Treasury - Vol. I/Fantasy Orchestral/Marked by War (live).wav
+  artifactKey: Guid(1820fe605d828404994ea81bc200e00b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Audio/Music/Game Music Treasury - Vol. I/Fantasy Orchestral/Marked by War (live).wav using Guid(1820fe605d828404994ea81bc200e00b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '698f82d18474d080b74f5d7f1c2c1011') in 0.030558 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000394 seconds.
+  path: Assets/Audio/Music/Game Music Treasury - Vol. I/Fantasy Orchestral/Tears of Apathy.wav
+  artifactKey: Guid(b4b540eb37c47e64bbd0fe19d08a64c5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Audio/Music/Game Music Treasury - Vol. I/Fantasy Orchestral/Tears of Apathy.wav using Guid(b4b540eb37c47e64bbd0fe19d08a64c5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1c4c4b06e8fe136657ccc369e10a32da') in 0.034009 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000496 seconds.
+  path: Assets/Audio/Music/Game Music Treasury - Vol. I/Fantasy Orchestral/New Adventure (live).wav
+  artifactKey: Guid(1b3cbac756a253c4b8ea73950be43aed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Audio/Music/Game Music Treasury - Vol. I/Fantasy Orchestral/New Adventure (live).wav using Guid(1b3cbac756a253c4b8ea73950be43aed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'eecc325dc79c6eb129183b870fe0138e') in 0.031027 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000356 seconds.
+  path: Assets/Audio/Music/Game Music Treasury - Vol. I/Fantasy Orchestral/Knight Assault.wav
+  artifactKey: Guid(5f1b4a254c03e8b47b362ed1f1ae5edb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Audio/Music/Game Music Treasury - Vol. I/Fantasy Orchestral/Knight Assault.wav using Guid(5f1b4a254c03e8b47b362ed1f1ae5edb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9a5abda6e2912c7596cde0cb25ce337d') in 0.028665 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000351 seconds.
+  path: Assets/Audio/Music/Game Music Treasury - Vol. I/Fantasy Orchestral/Hero's Journey.wav
+  artifactKey: Guid(0a204f13bc0e7fc4b8b3c6012b98223a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Audio/Music/Game Music Treasury - Vol. I/Fantasy Orchestral/Hero's Journey.wav using Guid(0a204f13bc0e7fc4b8b3c6012b98223a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '736be13c97b1858b2c50dba4cc325c01') in 0.029726 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000585 seconds.
+  path: Assets/Audio/Music/Game Music Treasury - Vol. I/Fantasy Orchestral/LOOP_Overworld Crossing.wav
+  artifactKey: Guid(e3d8f4072b303af49a5927b95c48d8ea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Audio/Music/Game Music Treasury - Vol. I/Fantasy Orchestral/LOOP_Overworld Crossing.wav using Guid(e3d8f4072b303af49a5927b95c48d8ea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c3d009989c667672d75b4a6e3d261faa') in 0.033194 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000370 seconds.
+  path: Assets/Audio/Music/Game Music Treasury - Vol. I/Fantasy Orchestral/Crowning of Victors.wav
+  artifactKey: Guid(4463cebc3d532df4392a8641845ad94e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Audio/Music/Game Music Treasury - Vol. I/Fantasy Orchestral/Crowning of Victors.wav using Guid(4463cebc3d532df4392a8641845ad94e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4d333c01a70a7ec182925d6313da01b1') in 0.027959 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000363 seconds.
+  path: Assets/Audio/Music/Game Music Treasury - Vol. I/Fantasy Orchestral/Winter Wish.wav
+  artifactKey: Guid(5d23552067e7a5941afe33dd99fef980) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Audio/Music/Game Music Treasury - Vol. I/Fantasy Orchestral/Winter Wish.wav using Guid(5d23552067e7a5941afe33dd99fef980) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3982b73840ae9a4a2889c30cbebb0b1f') in 0.031948 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000343 seconds.
+  path: Assets/Audio/Music/Game Music Treasury - Vol. I/Fantasy Orchestral/LOOP_Enter the King.wav
+  artifactKey: Guid(96c0f30c4e7a3d34192f9bed2415c5e1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Audio/Music/Game Music Treasury - Vol. I/Fantasy Orchestral/LOOP_Enter the King.wav using Guid(96c0f30c4e7a3d34192f9bed2415c5e1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd2824917f5b80a85ad3a7057869658b8') in 0.030796 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000427 seconds.
+  path: Assets/Audio/Music/Game Music Treasury - Vol. I/Fantasy Orchestral/Epic Opener.wav
+  artifactKey: Guid(3782612ead3e7934fbed563b212667b2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Audio/Music/Game Music Treasury - Vol. I/Fantasy Orchestral/Epic Opener.wav using Guid(3782612ead3e7934fbed563b212667b2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '83740d79a208588a36b9b2d820182aab') in 0.028575 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000588 seconds.
+  path: Assets/Audio/Music/Game Music Treasury - Vol. I/Fantasy Orchestral/LOOP_Jumping in Zero Gravity.wav
+  artifactKey: Guid(5d4cfc4a3ef8e1c45bb12c65698cae03) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Audio/Music/Game Music Treasury - Vol. I/Fantasy Orchestral/LOOP_Jumping in Zero Gravity.wav using Guid(5d4cfc4a3ef8e1c45bb12c65698cae03) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0b3be761ffe4b8b7686c742a106e1f0e') in 0.034189 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000428 seconds.
+  path: Assets/Audio/Music/Game Music Treasury - Vol. I/Fantasy Orchestral/Desert Storm (live).wav
+  artifactKey: Guid(29b30f6ecff2c4347bd1becd3fb31159) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Audio/Music/Game Music Treasury - Vol. I/Fantasy Orchestral/Desert Storm (live).wav using Guid(29b30f6ecff2c4347bd1becd3fb31159) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5666d4a5b46d4601fdbe3ecd3d5644eb') in 0.029205 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000388 seconds.
+  path: Assets/Audio/Music/Game Music Treasury - Vol. I/Fantasy Orchestral/Flee from the Darkness.wav
+  artifactKey: Guid(6224de8ae18f2fb4abb0cd853abc3f69) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Audio/Music/Game Music Treasury - Vol. I/Fantasy Orchestral/Flee from the Darkness.wav using Guid(6224de8ae18f2fb4abb0cd853abc3f69) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd3ce09ad87fd81192d599ccaa0a15234') in 0.027639 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000399 seconds.
+  path: Assets/Audio/Music/Game Music Treasury - Vol. I/Fantasy Orchestral/LOOP_Forest of Lost Souls.wav
+  artifactKey: Guid(3b5cd8de12503db45a7d67cfe39f3d25) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Audio/Music/Game Music Treasury - Vol. I/Fantasy Orchestral/LOOP_Forest of Lost Souls.wav using Guid(3b5cd8de12503db45a7d67cfe39f3d25) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0d066fc7c2d02d4aedf7fca250b1a068') in 0.030920 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000345 seconds.
+  path: Assets/Audio/Music/Game Music Treasury - Vol. I/Fantasy Orchestral/Tides of War.wav
+  artifactKey: Guid(c52c25acee7e6744b98c5b35c2a18ad6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Audio/Music/Game Music Treasury - Vol. I/Fantasy Orchestral/Tides of War.wav using Guid(c52c25acee7e6744b98c5b35c2a18ad6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '87cce80dcb7a51903fbf64ff3da7e6e7') in 0.022185 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000377 seconds.
+  path: Assets/Audio/Music/Game Music Treasury - Vol. I/Fantasy Orchestral/Rise of the Pheonix.wav
+  artifactKey: Guid(5ffe605669c523e41a80e59d85f47fc9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Audio/Music/Game Music Treasury - Vol. I/Fantasy Orchestral/Rise of the Pheonix.wav using Guid(5ffe605669c523e41a80e59d85f47fc9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '13de54ba7f5b8ab835feca09a60d160d') in 0.026079 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000406 seconds.
+  path: Assets/Audio/Music/Game Music Treasury - Vol. I/Fantasy Orchestral/LOOP_Quest for Magic (live).wav
+  artifactKey: Guid(f28b308dc6cd3604cb559711b7c02964) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Audio/Music/Game Music Treasury - Vol. I/Fantasy Orchestral/LOOP_Quest for Magic (live).wav using Guid(f28b308dc6cd3604cb559711b7c02964) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6ae69b07288dd34cd40bbf297af3864b') in 0.021883 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.001077 seconds.
+  path: Assets/Audio/Music/Game Music Treasury - Vol. I/Fantasy Orchestral/Corruption Enters.wav
+  artifactKey: Guid(f3d2a320bca7ba741b0c5533593a55e7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Audio/Music/Game Music Treasury - Vol. I/Fantasy Orchestral/Corruption Enters.wav using Guid(f3d2a320bca7ba741b0c5533593a55e7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00e38e45298e29a217c1b9bdce778688') in 0.028404 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 1.532054 seconds.
+  path: Assets/Audio/Music/Game Music Treasury - Vol. I/Sentimental/Childhood Romance.wav
+  artifactKey: Guid(177cac7524b6c3e43bce70f0bf7a9166) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Audio/Music/Game Music Treasury - Vol. I/Sentimental/Childhood Romance.wav using Guid(177cac7524b6c3e43bce70f0bf7a9166) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dd81bc809c1f7d52e4bed08db7b822f6') in 0.024025 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000355 seconds.
+  path: Assets/Audio/Music/Game Music Treasury - Vol. I/Sentimental/Love Forgotten (live).wav
+  artifactKey: Guid(ccbb4381be6334f41ab3a2cd73685b36) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Audio/Music/Game Music Treasury - Vol. I/Sentimental/Love Forgotten (live).wav using Guid(ccbb4381be6334f41ab3a2cd73685b36) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c204f8273f1f51091f464c519cdc2dd1') in 0.019988 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000313 seconds.
+  path: Assets/Audio/Music/Game Music Treasury - Vol. I/Sentimental/Star-crossed Lovers A (live).wav
+  artifactKey: Guid(4c7c1a7665fd9d7469c9125fcaec29e2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Audio/Music/Game Music Treasury - Vol. I/Sentimental/Star-crossed Lovers A (live).wav using Guid(4c7c1a7665fd9d7469c9125fcaec29e2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'da6c825dbc6772af3ad0a65ea0ddbd62') in 0.026711 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000444 seconds.
+  path: Assets/Audio/Music/Game Music Treasury - Vol. I/Sentimental/Deep Connection.wav
+  artifactKey: Guid(486251f072a7c4c4793fd3d629bc5182) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Audio/Music/Game Music Treasury - Vol. I/Sentimental/Deep Connection.wav using Guid(486251f072a7c4c4793fd3d629bc5182) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8599f11b6b98e20ca504b8dd21284ae2') in 0.024544 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000357 seconds.
+  path: Assets/Audio/Music/Game Music Treasury - Vol. I/Sentimental/LOOP_Resolve to Rise.wav
+  artifactKey: Guid(cff6e94c46cdc214787d70f1ed73ab35) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Audio/Music/Game Music Treasury - Vol. I/Sentimental/LOOP_Resolve to Rise.wav using Guid(cff6e94c46cdc214787d70f1ed73ab35) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '21b502c3e358ed07389c8ffb4053d801') in 0.032426 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000427 seconds.
+  path: Assets/Audio/Music/Game Music Treasury - Vol. I/Sentimental/Cryptic Lullaby (live).wav
+  artifactKey: Guid(cb5b6e7a7a321f24ea2a20af463fd238) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Audio/Music/Game Music Treasury - Vol. I/Sentimental/Cryptic Lullaby (live).wav using Guid(cb5b6e7a7a321f24ea2a20af463fd238) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'df0d2f00bfb358f36b95353e0dabc7d8') in 0.023095 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000570 seconds.
+  path: Assets/Audio/Music/Game Music Treasury - Vol. I/Sentimental/The Kiss.wav
+  artifactKey: Guid(f3cfe846cfb2e1840b1f5b660b1ec93e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Audio/Music/Game Music Treasury - Vol. I/Sentimental/The Kiss.wav using Guid(f3cfe846cfb2e1840b1f5b660b1ec93e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e74276eaf305316a1a8812159a62c461') in 0.024850 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000379 seconds.
+  path: Assets/Audio/Music/Game Music Treasury - Vol. I/Sentimental/Sundown Sentiments (live).wav
+  artifactKey: Guid(cc5f9e5890e3b2b4098b475f26ca1f91) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Audio/Music/Game Music Treasury - Vol. I/Sentimental/Sundown Sentiments (live).wav using Guid(cc5f9e5890e3b2b4098b475f26ca1f91) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0ccb249f3ce66188b46daccd5e40cea8') in 0.034717 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000369 seconds.
+  path: Assets/Audio/Music/Game Music Treasury - Vol. I/Sentimental/The Home I'll Always Remember (live).wav
+  artifactKey: Guid(6c6e9bc1414b02e47a6e84c2ce0e8897) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Audio/Music/Game Music Treasury - Vol. I/Sentimental/The Home I'll Always Remember (live).wav using Guid(6c6e9bc1414b02e47a6e84c2ce0e8897) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c83e1193932c966b6710dc03e7dd682e') in 0.025054 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000360 seconds.
+  path: Assets/Audio/Music/Game Music Treasury - Vol. I/Sentimental/Magic of the Forest.wav
+  artifactKey: Guid(af64d25061a734b47ab0f32102f4ee77) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Audio/Music/Game Music Treasury - Vol. I/Sentimental/Magic of the Forest.wav using Guid(af64d25061a734b47ab0f32102f4ee77) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '06a9a7f5350d6d4dd4d181e14b18ca56') in 0.022391 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000364 seconds.
+  path: Assets/Audio/Music/Game Music Treasury - Vol. I/Sentimental/Together At Last (live).wav
+  artifactKey: Guid(5c75951a2f671294fbbb1a306208dfc6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Audio/Music/Game Music Treasury - Vol. I/Sentimental/Together At Last (live).wav using Guid(5c75951a2f671294fbbb1a306208dfc6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '36c7e2e9076b988a9e74142feb302e4b') in 0.032860 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000342 seconds.
+  path: Assets/Audio/Music/Game Music Treasury - Vol. I/Sentimental/Day Dreaming (live).wav
+  artifactKey: Guid(4bfd3be04537bb446803b75dfa0d8f56) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Audio/Music/Game Music Treasury - Vol. I/Sentimental/Day Dreaming (live).wav using Guid(4bfd3be04537bb446803b75dfa0d8f56) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7780265508730ba2322c79dc6b2d42fe') in 0.027467 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000400 seconds.
+  path: Assets/Audio/Music/Game Music Treasury - Vol. I/Sentimental/LOOP_Away From Home.wav
+  artifactKey: Guid(e40b125e9c7246c4e97315f5093c6e2a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Audio/Music/Game Music Treasury - Vol. I/Sentimental/LOOP_Away From Home.wav using Guid(e40b125e9c7246c4e97315f5093c6e2a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6128bfaff3b24d3fa4aa95b2a6747df7') in 0.030484 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000452 seconds.
+  path: Assets/Audio/Music/Game Music Treasury - Vol. I/Sentimental/Star-crossed Lovers B.wav
+  artifactKey: Guid(eaa2d239c518d344f8ffc3ea7ba1f6af) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Audio/Music/Game Music Treasury - Vol. I/Sentimental/Star-crossed Lovers B.wav using Guid(eaa2d239c518d344f8ffc3ea7ba1f6af) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '47b8b78892c32829a940698c993d5b32') in 0.030003 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000349 seconds.
+  path: Assets/Audio/Music/Game Music Treasury - Vol. I/Sentimental/Eternal Dreams.wav
+  artifactKey: Guid(9a5127fa2e3b3114f907bd05760d816e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Audio/Music/Game Music Treasury - Vol. I/Sentimental/Eternal Dreams.wav using Guid(9a5127fa2e3b3114f907bd05760d816e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cb6a7668ffbef5cef799265b5762f250') in 0.037470 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000373 seconds.
+  path: Assets/Audio/Music/Game Music Treasury - Vol. I/Sentimental/Of Warmth and Hope (live).wav
+  artifactKey: Guid(1e72fe8ba52c306499486e17c9376e8e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Audio/Music/Game Music Treasury - Vol. I/Sentimental/Of Warmth and Hope (live).wav using Guid(1e72fe8ba52c306499486e17c9376e8e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'df7d1472b9ffb18f5b4c9789184af544') in 0.023318 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000704 seconds.
+  path: Assets/Audio/Music/Game Music Treasury - Vol. I/Sentimental/Reminiscence.wav
+  artifactKey: Guid(bf9843005b653424094dbbe4ff2e67dc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Audio/Music/Game Music Treasury - Vol. I/Sentimental/Reminiscence.wav using Guid(bf9843005b653424094dbbe4ff2e67dc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0c3bd9bbb5c2400188855c8d2a7e5a46') in 0.029871 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000410 seconds.
+  path: Assets/Audio/Music/Game Music Treasury - Vol. I/Sentimental/LOOP_Two Lovers.wav
+  artifactKey: Guid(558489d7879bb924b9f8d689ee8ad709) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Audio/Music/Game Music Treasury - Vol. I/Sentimental/LOOP_Two Lovers.wav using Guid(558489d7879bb924b9f8d689ee8ad709) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7effab9800f4a8cbaa80ab8aef7f150c') in 0.031382 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000359 seconds.
+  path: Assets/Audio/Music/Game Music Treasury - Vol. I/Sentimental/Heartbroken (live).wav
+  artifactKey: Guid(76fbbb6f1a834fd4fa5fec90b24655e3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Audio/Music/Game Music Treasury - Vol. I/Sentimental/Heartbroken (live).wav using Guid(76fbbb6f1a834fd4fa5fec90b24655e3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8d737697ae480931f8ebf07d7338b5af') in 0.028545 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000518 seconds.
+  path: Assets/Audio/Music/Game Music Treasury - Vol. I/Sentimental/Moments of Beauty (live).wav
+  artifactKey: Guid(34b52da5098e96a4292c6c7a6f828f99) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Audio/Music/Game Music Treasury - Vol. I/Sentimental/Moments of Beauty (live).wav using Guid(34b52da5098e96a4292c6c7a6f828f99) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0cc220f2752f6291af3be3b94f661adf') in 0.021966 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000404 seconds.
+  path: Assets/Audio/Music/Game Music Treasury - Vol. I/Sentimental/LOOP_Delicate as a Flower.wav
+  artifactKey: Guid(c53b8f0a74b48044280138fde1932dca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Audio/Music/Game Music Treasury - Vol. I/Sentimental/LOOP_Delicate as a Flower.wav using Guid(c53b8f0a74b48044280138fde1932dca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cc7967bb3a06f16f4d4fc8205fdd3d90') in 0.024684 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000388 seconds.
+  path: Assets/Audio/Music/Game Music Treasury - Vol. I/Sentimental/Never Let Me Go (live).wav
+  artifactKey: Guid(7cdec99cd36e5b14da07d9b19a86d312) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Audio/Music/Game Music Treasury - Vol. I/Sentimental/Never Let Me Go (live).wav using Guid(7cdec99cd36e5b14da07d9b19a86d312) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7681581577c481ebe66a9f250d7bca3a') in 0.038377 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000373 seconds.
+  path: Assets/Audio/Music/Game Music Treasury - Vol. I/Solo Piano/Indecisive (live).wav
+  artifactKey: Guid(9567ea2691d36e342aa744b9f9415c9b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Audio/Music/Game Music Treasury - Vol. I/Solo Piano/Indecisive (live).wav using Guid(9567ea2691d36e342aa744b9f9415c9b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '90aa37381f95781b4ea4e4984e9c47ed') in 0.022079 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000669 seconds.
+  path: Assets/Audio/Music/Game Music Treasury - Vol. I/Solo Piano/Monster Chase! (live).wav
+  artifactKey: Guid(54256dd665a6c4348be3d38d939662dd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Audio/Music/Game Music Treasury - Vol. I/Solo Piano/Monster Chase! (live).wav using Guid(54256dd665a6c4348be3d38d939662dd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '151c351c5115f91710940b6ef9131b17') in 0.033395 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000471 seconds.
+  path: Assets/Audio/Music/Game Music Treasury - Vol. I/Solo Piano/Morning Dew (live).wav
+  artifactKey: Guid(41a00f05c2fabcb47bf00cdce677d52d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Audio/Music/Game Music Treasury - Vol. I/Solo Piano/Morning Dew (live).wav using Guid(41a00f05c2fabcb47bf00cdce677d52d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2cfcd01bc07de3132f1292c822da009f') in 0.023543 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000379 seconds.
+  path: Assets/Audio/Music/Game Music Treasury - Vol. I/Solo Piano/Twilight Gaze (live).wav
+  artifactKey: Guid(9fae6e57a87ee9d49865e82e1be92b21) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Audio/Music/Game Music Treasury - Vol. I/Solo Piano/Twilight Gaze (live).wav using Guid(9fae6e57a87ee9d49865e82e1be92b21) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd16061a64948470879595164a3313079') in 0.024384 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000375 seconds.
+  path: Assets/Audio/Music/Game Music Treasury - Vol. I/Solo Piano/Childhood Memories (live).wav
+  artifactKey: Guid(ca6df63f809a8a6479ca879ee2213269) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Audio/Music/Game Music Treasury - Vol. I/Solo Piano/Childhood Memories (live).wav using Guid(ca6df63f809a8a6479ca879ee2213269) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b191a991db81c4fe83f92ade6a22d177') in 0.023390 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000364 seconds.
+  path: Assets/Audio/Music/Game Music Treasury - Vol. I/Solo Piano/Hope Rising (live).wav
+  artifactKey: Guid(fe6d11618e5d04f42b0663a5f4e44434) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Audio/Music/Game Music Treasury - Vol. I/Solo Piano/Hope Rising (live).wav using Guid(fe6d11618e5d04f42b0663a5f4e44434) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '31f46b50002ccf0f71ed4bd69fa3989a') in 0.030922 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000458 seconds.
+  path: Assets/Audio/Music/Game Music Treasury - Vol. I/Solo Piano/Inspire to Overcome (live).wav
+  artifactKey: Guid(ac29ec21eda01904385dacee0cf01bc2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Audio/Music/Game Music Treasury - Vol. I/Solo Piano/Inspire to Overcome (live).wav using Guid(ac29ec21eda01904385dacee0cf01bc2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1dbdcc98a63858f7e6bc725f4c03e32c') in 0.028708 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000327 seconds.
+  path: Assets/Audio/Music/Game Music Treasury - Vol. I/Solo Piano/Mystic Falls (live).wav
+  artifactKey: Guid(85b1a6eb9bdee084abe1d90b5ad5d1cc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Audio/Music/Game Music Treasury - Vol. I/Solo Piano/Mystic Falls (live).wav using Guid(85b1a6eb9bdee084abe1d90b5ad5d1cc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '261f7a77ace1335741ab1def646efe0c') in 0.029201 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000350 seconds.
+  path: Assets/Audio/Music/Game Music Treasury - Vol. I/Solo Piano/Inspiring Confidence (live).wav
+  artifactKey: Guid(69b2f2578331e004e92968419e4f411b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Audio/Music/Game Music Treasury - Vol. I/Solo Piano/Inspiring Confidence (live).wav using Guid(69b2f2578331e004e92968419e4f411b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3504c9bf990ffdab250de34d433dc44b') in 0.031734 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000329 seconds.
+  path: Assets/Audio/Music/Game Music Treasury - Vol. I/Solo Piano/Dream A New Dream (live).wav
+  artifactKey: Guid(197a3df9a009fb04ca20c8192c031e8e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Audio/Music/Game Music Treasury - Vol. I/Solo Piano/Dream A New Dream (live).wav using Guid(197a3df9a009fb04ca20c8192c031e8e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bc91d168736532d735bf3300f03e2bc5') in 0.029711 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000795 seconds.
+  path: Assets/Audio/Music/Game Music Treasury - Vol. I/Solo Piano/Preparing for the Big Moment (live).wav
+  artifactKey: Guid(21b681ebc2239654ab2b207a39e0d031) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Audio/Music/Game Music Treasury - Vol. I/Solo Piano/Preparing for the Big Moment (live).wav using Guid(21b681ebc2239654ab2b207a39e0d031) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'eab98ff59f564b87e24a3a9ce13684a3') in 0.031476 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000540 seconds.
+  path: Assets/Audio/Music/Game Music Treasury - Vol. I/Solo Piano/Growing Up (live).wav
+  artifactKey: Guid(9ef4bf43854bba74a8bd66722b63664c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Audio/Music/Game Music Treasury - Vol. I/Solo Piano/Growing Up (live).wav using Guid(9ef4bf43854bba74a8bd66722b63664c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'aa16280fda44dd91798b20a4c1790704') in 0.033045 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000388 seconds.
+  path: Assets/Audio/Music/Game Music Treasury - Vol. I/Solo Piano/The Jester (live).wav
+  artifactKey: Guid(a0ddfe759ae927944a17130d9f3e2668) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Audio/Music/Game Music Treasury - Vol. I/Solo Piano/The Jester (live).wav using Guid(a0ddfe759ae927944a17130d9f3e2668) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8161a344c27093a99fa83bb9ccf67944') in 0.026211 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000358 seconds.
+  path: Assets/Audio/Music/Game Music Treasury - Vol. I/Solo Piano/Life of Harships (live).wav
+  artifactKey: Guid(e37b429243314f247a7c32257e10255f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Audio/Music/Game Music Treasury - Vol. I/Solo Piano/Life of Harships (live).wav using Guid(e37b429243314f247a7c32257e10255f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '952958826bd7e89b3b26ee089b4dc30b') in 0.022795 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000478 seconds.
+  path: Assets/Audio/Music/Game Music Treasury - Vol. I/Solo Piano/Seasons of Life (live).wav
+  artifactKey: Guid(fac389cea0c0f7746a32912de79c607e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Audio/Music/Game Music Treasury - Vol. I/Solo Piano/Seasons of Life (live).wav using Guid(fac389cea0c0f7746a32912de79c607e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '66ac54b9244698da4e0d5642530fb99d') in 0.026263 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000404 seconds.
+  path: Assets/Audio/Music/Game Music Treasury - Vol. I/Solo Piano/The Stream of Life (live).wav
+  artifactKey: Guid(c4546e53d72d421469ad16e6db3f3a53) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Audio/Music/Game Music Treasury - Vol. I/Solo Piano/The Stream of Life (live).wav using Guid(c4546e53d72d421469ad16e6db3f3a53) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4f1ff4cfccd447a236d283b7847b14ee') in 0.027216 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000377 seconds.
+  path: Assets/Audio/Music/Game Music Treasury - Vol. I/Solo Piano/Ripple in the Pond (live).wav
+  artifactKey: Guid(a90c1a85547af804ea10e3be6b5da270) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Audio/Music/Game Music Treasury - Vol. I/Solo Piano/Ripple in the Pond (live).wav using Guid(a90c1a85547af804ea10e3be6b5da270) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd57b7e1d03a22b8043320571504640d7') in 0.035183 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000449 seconds.
+  path: Assets/Audio/Music/Game Music Treasury - Vol. I/Dungeon/LOOP_Exploring the Depths.wav
+  artifactKey: Guid(6d18cc83f807e5d408b73daffc20972a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Audio/Music/Game Music Treasury - Vol. I/Dungeon/LOOP_Exploring the Depths.wav using Guid(6d18cc83f807e5d408b73daffc20972a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '733c792d8bf94d54419657de5c39e293') in 0.025041 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000357 seconds.
+  path: Assets/Audio/Music/Game Music Treasury - Vol. I/Dungeon/LOOP_Lunar Expedition.wav
+  artifactKey: Guid(0b6fcb7c63e2fa64d8425f6de09810b7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Audio/Music/Game Music Treasury - Vol. I/Dungeon/LOOP_Lunar Expedition.wav using Guid(0b6fcb7c63e2fa64d8425f6de09810b7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1ea6e862fc72a47726a95645917f62f5') in 0.029637 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000408 seconds.
+  path: Assets/Audio/Music/Game Music Treasury - Vol. I/Dungeon/LOOP_Space Exploration.wav
+  artifactKey: Guid(841b937ff5e4f61499598e83c1a93384) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Audio/Music/Game Music Treasury - Vol. I/Dungeon/LOOP_Space Exploration.wav using Guid(841b937ff5e4f61499598e83c1a93384) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'efd18b25213f3ede597b690427fe02c9') in 0.021736 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000355 seconds.
+  path: Assets/Audio/Music/Game Music Treasury - Vol. I/Dungeon/LOOP_Nighttime Metropolis.wav
+  artifactKey: Guid(49af4ead92f066442b88d4062a5ccb78) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Audio/Music/Game Music Treasury - Vol. I/Dungeon/LOOP_Nighttime Metropolis.wav using Guid(49af4ead92f066442b88d4062a5ccb78) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '62e34eb247067dbfa9582ed3215ba26e') in 0.037237 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000413 seconds.
+  path: Assets/Audio/Music/Game Music Treasury - Vol. I/Dungeon/LOOP_Dungeon Exploring A.wav
+  artifactKey: Guid(725e51dae9cfe6e42996d13ce7e2a129) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Audio/Music/Game Music Treasury - Vol. I/Dungeon/LOOP_Dungeon Exploring A.wav using Guid(725e51dae9cfe6e42996d13ce7e2a129) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6a4e3ee1f8496bcc8a79fea7e5df8b9e') in 0.027165 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000356 seconds.
+  path: Assets/Audio/Music/Game Music Treasury - Vol. I/Dungeon/LOOP_Into the Lava Pit.wav
+  artifactKey: Guid(d847760943a69ac4a8e08d9b3851c43a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Audio/Music/Game Music Treasury - Vol. I/Dungeon/LOOP_Into the Lava Pit.wav using Guid(d847760943a69ac4a8e08d9b3851c43a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '65d037966a69606f01c65fd24ace3d4f') in 0.030281 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000432 seconds.
+  path: Assets/Audio/Music/Game Music Treasury - Vol. I/Dungeon/Lost in the Labyrinth.wav
+  artifactKey: Guid(5a937ccdff0d14a4babc0fe95de3e29a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Audio/Music/Game Music Treasury - Vol. I/Dungeon/Lost in the Labyrinth.wav using Guid(5a937ccdff0d14a4babc0fe95de3e29a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '95d4581fe29e5b673e3541d653394fc5') in 0.024250 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000365 seconds.
+  path: Assets/Audio/Music/Game Music Treasury - Vol. I/Dungeon/LOOP_Sunken Castle.wav
+  artifactKey: Guid(87d325a9df9ac18459cb039fbfbd01be) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Audio/Music/Game Music Treasury - Vol. I/Dungeon/LOOP_Sunken Castle.wav using Guid(87d325a9df9ac18459cb039fbfbd01be) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3c76a44cdda71671c3b821385637687a') in 0.029916 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000364 seconds.
+  path: Assets/Audio/Music/Game Music Treasury - Vol. I/Dungeon/LOOP_Dream Shrine 2.wav
+  artifactKey: Guid(ff4117671b98b3746854ff1047921ad9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Audio/Music/Game Music Treasury - Vol. I/Dungeon/LOOP_Dream Shrine 2.wav using Guid(ff4117671b98b3746854ff1047921ad9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6f86b2c331b2a718174c0e8b2144e8ed') in 0.023572 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000369 seconds.
+  path: Assets/Audio/Music/Game Music Treasury - Vol. I/Dungeon/LOOP_Electric Fortress.wav
+  artifactKey: Guid(fa06fe6c610a10147bb1474bd070ccef) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Audio/Music/Game Music Treasury - Vol. I/Dungeon/LOOP_Electric Fortress.wav using Guid(fa06fe6c610a10147bb1474bd070ccef) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cc1f3553046a01750203fe40f64b62a9') in 0.028636 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000327 seconds.
+  path: Assets/Audio/Music/Game Music Treasury - Vol. I/Dungeon/LOOP_Ancestral Grounds (live).wav
+  artifactKey: Guid(30a7543023476de429092a6176ecf590) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Audio/Music/Game Music Treasury - Vol. I/Dungeon/LOOP_Ancestral Grounds (live).wav using Guid(30a7543023476de429092a6176ecf590) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '98c0c9f992c4d111132d76770b05d9ed') in 0.022280 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000371 seconds.
+  path: Assets/Audio/Music/Game Music Treasury - Vol. I/Dungeon/LOOP_Dungeon Exploring B.wav
+  artifactKey: Guid(29e5194dd17073b45975a3966a74bd7e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Audio/Music/Game Music Treasury - Vol. I/Dungeon/LOOP_Dungeon Exploring B.wav using Guid(29e5194dd17073b45975a3966a74bd7e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'aac3768601ec51a1ea1f4d456bb2de97') in 0.031989 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000446 seconds.
+  path: Assets/Audio/Music/Game Music Treasury - Vol. I/Sentimental/LOOP_Fighting for a Dream (live).wav
+  artifactKey: Guid(d4e85d938b6a6234d879c883310495fc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Audio/Music/Game Music Treasury - Vol. I/Sentimental/LOOP_Fighting for a Dream (live).wav using Guid(d4e85d938b6a6234d879c883310495fc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd7b9bf143d04943c7badfafab8e1377b') in 0.030886 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000391 seconds.
+  path: Assets/Audio/Music/Game Music Treasury - Vol. I/Dungeon/LOOP_What Lurks in the Dungeon.wav
+  artifactKey: Guid(7f0319b3927b02245a322eb29010c77a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Audio/Music/Game Music Treasury - Vol. I/Dungeon/LOOP_What Lurks in the Dungeon.wav using Guid(7f0319b3927b02245a322eb29010c77a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a5a16f51b9bec2166b6222659322c868') in 0.030412 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000425 seconds.
+  path: Assets/Audio/Music/Game Music Treasury - Vol. I/Sentimental/LOOP_Heartfelt Reunion (live).wav
+  artifactKey: Guid(d77edd8a661a62240a7e3060429e43b6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Audio/Music/Game Music Treasury - Vol. I/Sentimental/LOOP_Heartfelt Reunion (live).wav using Guid(d77edd8a661a62240a7e3060429e43b6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b171fa448b4d2563404035ce8bc7d24f') in 0.023452 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.002576 seconds.
+  path: Assets/Audio/Music/Game Music Treasury - Vol. I/Sentimental/Easier With You (live).wav
+  artifactKey: Guid(30eedef8ff8c71c4eaf818880138da12) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Audio/Music/Game Music Treasury - Vol. I/Sentimental/Easier With You (live).wav using Guid(30eedef8ff8c71c4eaf818880138da12) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3c631bb0b0010611056214de7d250104') in 0.026016 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000434 seconds.
+  path: Assets/Audio/Music/Game Music Treasury - Vol. I/Dungeon/Pixel Dungeon.wav
+  artifactKey: Guid(132dab53abb879e46ade4b24ce7939b3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Audio/Music/Game Music Treasury - Vol. I/Dungeon/Pixel Dungeon.wav using Guid(132dab53abb879e46ade4b24ce7939b3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cb8f3a56384cddd98116b8930fa42154') in 0.028302 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000358 seconds.
+  path: Assets/Audio/Music/Game Music Treasury - Vol. I/Dungeon/LOOP_Dungeon Crawling.wav
+  artifactKey: Guid(215d79d485cc2ef4893eceaf9e2dddbe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Audio/Music/Game Music Treasury - Vol. I/Dungeon/LOOP_Dungeon Crawling.wav using Guid(215d79d485cc2ef4893eceaf9e2dddbe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bb5d2fc63e9a1b9dc00ea919ac64a116') in 0.024104 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000387 seconds.
+  path: Assets/Audio/Music/Game Music Treasury - Vol. I/Dungeon/LOOP_Underwater Domain.wav
+  artifactKey: Guid(38cfae8b0b08040499eb0e16a553fb7e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Audio/Music/Game Music Treasury - Vol. I/Dungeon/LOOP_Underwater Domain.wav using Guid(38cfae8b0b08040499eb0e16a553fb7e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '61f559aad0f46f47a36a5e6a1aea726a') in 0.025381 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000389 seconds.
+  path: Assets/Audio/Music/Game Music Treasury - Vol. I/Dungeon/LOOP_Industrial Mission.wav
+  artifactKey: Guid(80d9c64167c6aae4d9363b753680a7c7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Audio/Music/Game Music Treasury - Vol. I/Dungeon/LOOP_Industrial Mission.wav using Guid(80d9c64167c6aae4d9363b753680a7c7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '90c27f5d313cbc409128a82dc288b211') in 0.036840 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000337 seconds.
+  path: Assets/Audio/Music/Game Music Treasury - Vol. I/Dungeon/LOOP_Toxic Wasteland.wav
+  artifactKey: Guid(8a7baf947d9658c41ad15e94fa198140) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Audio/Music/Game Music Treasury - Vol. I/Dungeon/LOOP_Toxic Wasteland.wav using Guid(8a7baf947d9658c41ad15e94fa198140) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3d51bc88382bc1d8f12fdd366b8780ca') in 0.027801 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.001454 seconds.
+  path: Assets/Audio/Music/Game Music Treasury - Vol. I/Dungeon/LOOP_Dungeon Exploring C.wav
+  artifactKey: Guid(746283ce2a49fe64ca1c475f28e4f7a3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Audio/Music/Game Music Treasury - Vol. I/Dungeon/LOOP_Dungeon Exploring C.wav using Guid(746283ce2a49fe64ca1c475f28e4f7a3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3bf074c274b5f8e29312d32c055ea64a') in 0.043174 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.001198 seconds.
+  path: Assets/Audio/Music/Game Music Treasury - Vol. I/Dungeon/LOOP_Water Palace.wav
+  artifactKey: Guid(dbe4a09ff6d73cf489ff111641c6f181) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Audio/Music/Game Music Treasury - Vol. I/Dungeon/LOOP_Water Palace.wav using Guid(dbe4a09ff6d73cf489ff111641c6f181) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd43fec1aa8becd31b23135bd9d11952c') in 0.047814 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000426 seconds.
+  path: Assets/Audio/Music/Game Music Treasury - Vol. I/Dungeon/LOOP_Forest Ambience.wav
+  artifactKey: Guid(2bb7d97a874863448a70ce4cc916d7d0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Audio/Music/Game Music Treasury - Vol. I/Dungeon/LOOP_Forest Ambience.wav using Guid(2bb7d97a874863448a70ce4cc916d7d0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '451aae55167bb4e73d28075657fe5f67') in 0.028303 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000389 seconds.
+  path: Assets/Audio/Music/Game Music Treasury - Vol. I/Dungeon/LOOP_Vast Expanse.wav
+  artifactKey: Guid(7af7b1dd02733d64e8bc696f140676ff) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Audio/Music/Game Music Treasury - Vol. I/Dungeon/LOOP_Vast Expanse.wav using Guid(7af7b1dd02733d64e8bc696f140676ff) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd77dad47309abe54c8f5c218a6e0749a') in 0.024917 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000554 seconds.
+  path: Assets/Audio/Music/Game Music Treasury - Vol. I/Dungeon/LOOP_Beware the Forest Traps! (live).wav
+  artifactKey: Guid(8ab5e22f777ebc846ad8db42f7bdb267) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Audio/Music/Game Music Treasury - Vol. I/Dungeon/LOOP_Beware the Forest Traps! (live).wav using Guid(8ab5e22f777ebc846ad8db42f7bdb267) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '18af8da590f4cb69e239cf363ed70fdc') in 0.022748 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000380 seconds.
+  path: Assets/Audio/Music/Game Music Treasury - Vol. I/Dungeon/LOOP_Underground Weapon.wav
+  artifactKey: Guid(b316a62a6048d0d47be6385b13507978) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Audio/Music/Game Music Treasury - Vol. I/Dungeon/LOOP_Underground Weapon.wav using Guid(b316a62a6048d0d47be6385b13507978) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5d1b4f127bf50ced96bfd9bc66ee7caa') in 0.023973 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000457 seconds.
+  path: Assets/Audio/Music/Game Music Treasury - Vol. I/Dungeon/LOOP_Electric Dungeon.wav
+  artifactKey: Guid(d29bc62016f99a24b94ea549c50ae37c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Audio/Music/Game Music Treasury - Vol. I/Dungeon/LOOP_Electric Dungeon.wav using Guid(d29bc62016f99a24b94ea549c50ae37c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '47cb3e49511d02085c0edb431a95c4f9') in 0.022256 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000366 seconds.
+  path: Assets/Audio/Music/Game Music Treasury - Vol. I/Dungeon/LOOP_Dungeon Ambience.wav
+  artifactKey: Guid(3cae5830f7532f746936975761bb9ad0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Audio/Music/Game Music Treasury - Vol. I/Dungeon/LOOP_Dungeon Ambience.wav using Guid(3cae5830f7532f746936975761bb9ad0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0abc96ab0610f9a42d0c05f61c3d544f') in 0.031536 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000362 seconds.
+  path: Assets/Audio/Music/Game Music Treasury - Vol. I/Solo Piano/A Little Smile (live).wav
+  artifactKey: Guid(1aa3169c97fe8a043a56104e1da975d0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Audio/Music/Game Music Treasury - Vol. I/Solo Piano/A Little Smile (live).wav using Guid(1aa3169c97fe8a043a56104e1da975d0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b9528a83d73a3e78c85d509650d084e4') in 0.030024 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000365 seconds.
+  path: Assets/Audio/Music/Game Music Treasury - Vol. I/Solo Piano/Lost Memories (live).wav
+  artifactKey: Guid(4044e104bedecb241b4d9c16e99842fb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Audio/Music/Game Music Treasury - Vol. I/Solo Piano/Lost Memories (live).wav using Guid(4044e104bedecb241b4d9c16e99842fb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8cdf81ffda5419c6ffa964bf4bc86461') in 0.031739 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000371 seconds.
+  path: Assets/Audio/Music/Game Music Treasury - Vol. I/Dungeon/LOOP_Torchlit Caverns.wav
+  artifactKey: Guid(ff77c068b581e934f9f470363ecd94d3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Audio/Music/Game Music Treasury - Vol. I/Dungeon/LOOP_Torchlit Caverns.wav using Guid(ff77c068b581e934f9f470363ecd94d3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e989b3efb18dee3513f035cd9261cb37') in 0.020987 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000345 seconds.
+  path: Assets/Audio/Music/Game Music Treasury - Vol. I/Dungeon/LOOP_Dream Shrine 1.wav
+  artifactKey: Guid(dd2d83d2b7e2683459ff88111dac2a98) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Audio/Music/Game Music Treasury - Vol. I/Dungeon/LOOP_Dream Shrine 1.wav using Guid(dd2d83d2b7e2683459ff88111dac2a98) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'add129771a6399cd1c69716f3a924286') in 0.034468 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000447 seconds.
+  path: Assets/Audio/Music/Game Music Treasury - Vol. I/Dungeon/LOOP_Dungeon Exploring E.wav
+  artifactKey: Guid(985cacbc96593f549b36a342525187ed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Audio/Music/Game Music Treasury - Vol. I/Dungeon/LOOP_Dungeon Exploring E.wav using Guid(985cacbc96593f549b36a342525187ed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c86328ad695c134cd2f64711b767d3d0') in 0.029092 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000363 seconds.
+  path: Assets/Audio/Music/Game Music Treasury - Vol. I/Sentimental/Forbidden Romance (live).wav
+  artifactKey: Guid(7cf3787d13b91a84384cc862c1bd83da) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Audio/Music/Game Music Treasury - Vol. I/Sentimental/Forbidden Romance (live).wav using Guid(7cf3787d13b91a84384cc862c1bd83da) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fdc1c4c2689d7f0e97ddb6e75feab4ba') in 0.025237 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000371 seconds.
+  path: Assets/Audio/Music/Game Music Treasury - Vol. I/Solo Piano/Becoming the Best You (live).wav
+  artifactKey: Guid(1a7fbcc67f8a74847bde19f941e66283) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Audio/Music/Game Music Treasury - Vol. I/Solo Piano/Becoming the Best You (live).wav using Guid(1a7fbcc67f8a74847bde19f941e66283) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '49fee9fd1a7823fbebda7c0ebb56d089') in 0.033811 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000346 seconds.
+  path: Assets/Audio/Music/Game Music Treasury - Vol. I/Solo Piano/Hope For Tomorrow (live).wav
+  artifactKey: Guid(f0ced6b45fdbb89468c143975ef95084) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Audio/Music/Game Music Treasury - Vol. I/Solo Piano/Hope For Tomorrow (live).wav using Guid(f0ced6b45fdbb89468c143975ef95084) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f85d124e2914f83c251411de794aff05') in 0.028938 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000379 seconds.
+  path: Assets/Audio/Music/Game Music Treasury - Vol. I/Dungeon/LOOP_Deep Maze.wav
+  artifactKey: Guid(d3906472948c91d4092b1551dcd01edf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Audio/Music/Game Music Treasury - Vol. I/Dungeon/LOOP_Deep Maze.wav using Guid(d3906472948c91d4092b1551dcd01edf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '50fe8cb7b7cc9d1b6ca67db2200094d1') in 0.027956 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000396 seconds.
+  path: Assets/Audio/Music/Game Music Treasury - Vol. I/Dungeon/LOOP_Derelict Shrine.wav
+  artifactKey: Guid(d0309ba3350f47f449cfdf3c7df11e5b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Audio/Music/Game Music Treasury - Vol. I/Dungeon/LOOP_Derelict Shrine.wav using Guid(d0309ba3350f47f449cfdf3c7df11e5b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '77a0bfe87b17968ff61e1ec9a881320a') in 0.027849 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000378 seconds.
+  path: Assets/Audio/Music/Game Music Treasury - Vol. I/Sentimental/Goodnight My Dear (live).wav
+  artifactKey: Guid(5d926498d1d243c41b42e4a54047cad8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Audio/Music/Game Music Treasury - Vol. I/Sentimental/Goodnight My Dear (live).wav using Guid(5d926498d1d243c41b42e4a54047cad8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2ec32ed5784f1993c45479eb597012f7') in 0.029596 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000483 seconds.
+  path: Assets/Audio/Music/Game Music Treasury - Vol. I/Sentimental/We Thank You Lord (live).wav
+  artifactKey: Guid(91deb72381eff5d46a2caad44c6c6ade) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Audio/Music/Game Music Treasury - Vol. I/Sentimental/We Thank You Lord (live).wav using Guid(91deb72381eff5d46a2caad44c6c6ade) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e805628d85fb0b0d022cf958084ae171') in 0.032452 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000369 seconds.
+  path: Assets/Audio/Music/Game Music Treasury - Vol. I/Dungeon/LOOP_Swimming Time.wav
+  artifactKey: Guid(47b7442264de5f8479d959fb9798429c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Audio/Music/Game Music Treasury - Vol. I/Dungeon/LOOP_Swimming Time.wav using Guid(47b7442264de5f8479d959fb9798429c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e91207a5b9221a1fa4b5e058d913bdb8') in 0.026252 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000403 seconds.
+  path: Assets/Audio/Music/Game Music Treasury - Vol. I/Dungeon/LOOP_Dungeon Exploring D.wav
+  artifactKey: Guid(e8e35b3e66da457479c79cf0d2e8bec7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Audio/Music/Game Music Treasury - Vol. I/Dungeon/LOOP_Dungeon Exploring D.wav using Guid(e8e35b3e66da457479c79cf0d2e8bec7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9dac79bb93c5f50e0502a1ef454bbcba') in 0.034071 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000400 seconds.
+  path: Assets/Audio/Music/Game Music Treasury - Vol. I/Solo Piano/Unrequited Love (live).wav
+  artifactKey: Guid(af0601848ab223b448bcb96cfb7d0b8d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Audio/Music/Game Music Treasury - Vol. I/Solo Piano/Unrequited Love (live).wav using Guid(af0601848ab223b448bcb96cfb7d0b8d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '79f4d4b454161c4c93d53956b22b0227') in 0.032102 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000395 seconds.
+  path: Assets/Audio/Music/Game Music Treasury - Vol. I/Sentimental/Far From Home (live).wav
+  artifactKey: Guid(adb5543e90275364fa29316030aa3b7a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Audio/Music/Game Music Treasury - Vol. I/Sentimental/Far From Home (live).wav using Guid(adb5543e90275364fa29316030aa3b7a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6a440f3cd1acf0eccd28156afc72186b') in 0.031014 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000444 seconds.
+  path: Assets/Audio/Music/Game Music Treasury - Vol. I/Dungeon/LOOP_Barely Undercover.wav
+  artifactKey: Guid(73787e5903754fb4789c61e8e39be216) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Audio/Music/Game Music Treasury - Vol. I/Dungeon/LOOP_Barely Undercover.wav using Guid(73787e5903754fb4789c61e8e39be216) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '072ffdab558b84d076833debd1735c21') in 0.027703 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001410 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for LinuxStandalone target not found
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.80 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.157 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.60 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1131 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 62.7 MB.
+System memory in use after: 62.8 MB.
+
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 1614.
+Total: 4.515600 ms (FindLiveObjects: 0.292400 ms CreateObjectMapping: 0.125700 ms MarkObjects: 4.064700 ms  DeleteObjects: 0.030500 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001338 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for LinuxStandalone target not found
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.90 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.782 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.92 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1131 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 62.7 MB.
+System memory in use after: 62.8 MB.
+
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 1617.
+Total: 7.619500 ms (FindLiveObjects: 0.360300 ms CreateObjectMapping: 0.168400 ms MarkObjects: 7.056100 ms  DeleteObjects: 0.032100 ms)
+
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
